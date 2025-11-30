@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm [Suraj](https://surajkumarsatya.vercel.app)
 
-<!--
-**surajkumarsatya/surajkumarsatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer based in New Delhi, passionate about building clean, responsive, and modern web apps.  
+I love turning ideas into real projects using **React**, **JavaScript**, **TypeScript**, and **Tailwind CSS**.
 
-Here are some ideas to get you started:
+You can always reach out to me via [linkedin](https://www.linkedin.com/in/surajkumarsatya) or [email](mailto:surajmail.799@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech I Use
+- React • TypeScript • JavaScript  
+- Tailwind CSS • HTML • CSS
+
+### 🚀 What I Do
+- Build responsive UI/UX  
+- Create frontend projects  
+- Explore modern animations & interactions  
+- Optimize performance and structure
+
+### 🎯 Current Focus
+- Growing as a frontend developer  
+- Improving my React + TypeScript architecture skills  
+- Looking for a full-time frontend role
+
+Thanks for stopping by!
